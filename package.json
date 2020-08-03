@@ -1,0 +1,31 @@
+{
+  "name": "timetable-telegrambot",
+  "version": "1.0.0",
+  "description": "It's a Simple telegram bot which show time table of my class.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadgetvala/timeTable-telegramBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegrambot",
+    "bot",
+    "telegraf",
+    "timetable",
+    "college"
+  ],
+  "author": "Suraj Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadgetvala/timeTable-telegramBot/issues"
+  },
+  "homepage": "https://github.com/gadgetvala/timeTable-telegramBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
